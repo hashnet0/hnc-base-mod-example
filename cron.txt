@@ -1,0 +1,3 @@
+# This file will automatically be added to the system cron if it exists.
+# Execute every 5 minutes.
+*/5 * * * * /hnc/modules/hnc-base-mod-example/run.sh >/dev/null 2>&1
