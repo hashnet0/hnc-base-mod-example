@@ -5,7 +5,3 @@ tmp/
 *.tmp
 *.pid
 *.swp
-
-# Ignore general configs
-server/*
-!server/start.sh
